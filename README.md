@@ -116,7 +116,8 @@ Acknowledgments
 · Inspired by daily personal finance management needs.
 · Thanks to basic Python tutorials and practice projects that helped shape this system.
 
-About the Author
+
+ the Author
 
 Nura Husein
 Student / Beginner Python Developer
